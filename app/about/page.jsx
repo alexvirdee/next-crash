@@ -1,4 +1,9 @@
+
 import React from 'react'
+
+export const metadata = {
+    title: 'About Virdee Media'
+}
 
 const AboutPage = () => {
   return (
